@@ -1,4 +1,4 @@
   commit 1
   commit 2
 
-  commit  conflict 2
+  conflict 2
